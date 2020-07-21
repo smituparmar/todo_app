@@ -7,7 +7,6 @@ class TaskList extends StatelessWidget {
     return ListView(
       children: <Widget>[
         TaskTile(),
-        TaskTile(),
       ],
     );
   }
